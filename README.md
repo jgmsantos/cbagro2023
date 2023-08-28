@@ -1,1 +1,81 @@
-# cbagro2023
+# Scripts para o curso de Aplicação de Python na Agrometeorologia realizado no Congresso Brasileiro de Agrometeorologia - 2023
+
+## Informações gerais sobre o curso
+
+* Curso: Aplicação de Python na Agrometeorologia.
+* Ministrante: Dr. Guilherme Martins - jgmsantos@gmail.com.
+* Dia 1: 30/11/2022.
+  * Duração: 2 horas (16h00-18h00).
+* Dia 2: 01/12/2022.
+  * Duração: 2horas (16h00-18h00).
+* Local: Fundeb - Sala Urano.
+
+## Conteúdo programático
+
+* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```)
+* Geração de figuras (nome do script: ```graficos.ipynb```)
+  * Gráfico de linha
+  * Gráfico de barra
+  * Gráfico espacial
+  * Uso do shapefile
+    * Adicionar shapefile ao mapa
+    * Uso do shapefile para mascarar o dado
+* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
+
+## Material de apoio
+
+* [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
+* [https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html](https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html)
+
+## Rede sociais
+
+* [Minha página](https://guilherme.readthedocs.io/en/latest)
+* [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
+* [Instagram](https://www.instagram.com/cursos.libertatem)
+
+## Criação do ambiente virtual
+* Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, basta seguir para o próximo item de instalação de bibliotecas.
+
+```conda create -n cbagro python=3.9.12```
+
+## Instalação de bibliotecas
+
+```pip3 install --upgrade pip```
+
+```pip install fastai==2.5.6```
+
+```pip install matplotlib==3.4.3```
+
+```pip install ipykernel```
+
+```conda install -c conda-forge xarray dask netCDF4 bottleneck```
+
+```pip install regionmask``` --< ultima lib instalada 25/08/2023
+
+```pip install proplot==0.9.4```
+
+```conda install -c conda-forge cartopy```
+
+```pip install geopandas==0.10.2```
+
+```pip install rasterio==1.2.10```
+
+```pip install salem==0.3.7```
+
+```pip install pygeos==0.12.0```
+
+```pip install rtree==1.0.0```
+
+```conda install -c conda-forge ncview```
+
+## Frase motivacional
+
+* Se quer ir rápido, vá sozinho. Se quer ir longe, vá com os amigos. **Provérbio Africano**.
+* Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana. **Carl Gustav Jung**.
+
+## Anotações
+
+- tabela 5.8, pag 211
+- cap. 11.7, pag 438
+- tabela 11.4, pag 406
+- pag 292, junções no dataframe
