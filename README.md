@@ -1,4 +1,4 @@
-# Scripts para o curso de Aplicação de Python na Agrometeorologia realizado no Congresso Brasileiro de Agrometeorologia - 2023
+# Scripts para o curso de Aplicação de Python na Agrometeorologia realizado no XXII Congresso Brasileiro de Agrometeorologia - 2023
 
 ## Informações gerais sobre o curso
 
