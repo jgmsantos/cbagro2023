@@ -50,13 +50,15 @@
 
 ```conda install -c conda-forge xarray dask netCDF4 bottleneck```
 
-```pip install regionmask``` --< ultima lib instalada 25/08/2023
+```pip install regionmask```
+
+```pip install geopandas==0.10.2```
+
+```pip install seaborn``` --< ultima lib instalada 25/08/2023
 
 ```pip install proplot==0.9.4```
 
 ```conda install -c conda-forge cartopy```
-
-```pip install geopandas==0.10.2```
 
 ```pip install rasterio==1.2.10```
 
