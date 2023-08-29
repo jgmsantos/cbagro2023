@@ -22,6 +22,16 @@
     * Uso do shapefile para mascarar o dado
 * Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
 
+## Recomendação de leitura
+
+O livro **Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython** é uma excelente porta de entrada para quem deseja se tornar cientista de dados.
+
+Link para comprar o livro: 
+
+[Link para Amazon](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479/ref=sr_1_6?crid=3IQMCPU8VU8AG&keywords=python+para+analise+de+dados&qid=1693326265&sprefix=Python+para+Analise+de+Dados%2Caps%2C268&sr=8-6)
+
+<img src="./scripts/capa_livro.jpg" width="20%" height="20%">
+
 ## Material de apoio
 
 * [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
@@ -32,6 +42,7 @@
 * [Minha página](https://guilherme.readthedocs.io/en/latest)
 * [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
 * [Instagram](https://www.instagram.com/cursos.libertatem)
+* [GitHub](https://github.com/jgmsantos)
 
 ## Criação do ambiente virtual
 * Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, basta seguir para o próximo item de instalação de bibliotecas.
@@ -72,8 +83,8 @@
 
 ## Frase motivacional
 
-* Se quer ir rápido, vá sozinho. Se quer ir longe, vá com os amigos. **Provérbio Africano**.
-* Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana. **Carl Gustav Jung**.
+* Sabemos muitos, mas não sabemos tudo.
+
 
 ## Anotações
 
