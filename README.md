@@ -1,14 +1,16 @@
-# Scripts para o curso de Aplicação de Python na Agrometeorologia realizado no XXII Congresso Brasileiro de Agrometeorologia - 2023
+# Scripts para o curso de Aplicação de Python na Agrometeorologia realizado no XXII Congresso Brasileiro de Agrometeorologia - outubro de 2023
 
 ## Informações gerais sobre o curso
 
 * Curso: Aplicação de Python na Agrometeorologia.
 * Ministrante: Dr. Guilherme Martins - jgmsantos@gmail.com.
-* Dia 1: 30/11/2022.
-  * Duração: 2 horas (16h00-18h00).
-* Dia 2: 01/12/2022.
-  * Duração: 2horas (16h00-18h00).
-* Local: Fundeb - Sala Urano.
+* Dia 1: 03/10/2022.
+  * Duração: 1h30m (17h30-19h00).
+* Dia 2: 04/10/2022.
+  * Duração: 1h30m (17h30-19h00).
+* Dia 3: 05/10/2022.
+  * Duração: 1h30m (17h30-19h00).
+* Carga horária: 4,5 horas.
 
 ## Conteúdo programático
 
@@ -45,7 +47,7 @@ Link para comprar o livro:
 * [GitHub](https://github.com/jgmsantos)
 
 ## Criação do ambiente virtual
-* Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, basta seguir para o próximo item de instalação de bibliotecas.
+* Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, seguir para o próximo item de instalação de bibliotecas.
 
 ```conda create -n cbagro python=3.9.12```
 
@@ -84,7 +86,6 @@ Link para comprar o livro:
 ## Frase motivacional
 
 * Sabemos muitos, mas não sabemos tudo.
-
 
 ## Anotações
 
