@@ -93,3 +93,6 @@ Link para comprar o livro:
 - cap. 11.7, pag 438
 - tabela 11.4, pag 406
 - pag 292, junções no dataframe
+- indices climaticos (NDCS, NDT>30°C)
+- merge de DF
+- processar NaN e preencher dados ausentes
