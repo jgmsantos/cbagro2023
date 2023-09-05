@@ -34,6 +34,18 @@ Link para comprar o livro:
 
 <img src="./scripts/capa_livro.jpg" width="20%" height="20%">
 
+## Crescimento do Python
+
+<img src="./scripts/python.png" width="40%" height="40%">
+
+Fonte: [stackoverflow](https://insights.stackoverflow.com/trends?tags=java%2Cc%2Cc%2B%2B%2Cpython%2Cjavascript%2Cassembly%2Cphp%2Cperl%2Cruby%2Cr)
+
+## Bibliotecas Python mais utilizadas
+
+<img src="./scripts/bibliotecas_python.png" width="40%" height="40%">
+
+Fonte: [stackoverflow](https://insights.stackoverflow.com/trends?tags=pandas%2Cnumpy%2Cmatplotlib)
+
 ## Material de apoio
 
 * [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
