@@ -36,13 +36,13 @@ Link para comprar o livro:
 
 ## Crescimento do Python
 
-<img src="./scripts/python.jpg" width="40%" height="40%">
+<img src="./scripts/python.jpg" width="60%" height="60%">
 
 Fonte: [stackoverflow](https://insights.stackoverflow.com/trends?tags=java%2Cc%2Cc%2B%2B%2Cpython%2Cjavascript%2Cassembly%2Cphp%2Cperl%2Cruby%2Cr)
 
 ## Bibliotecas Python mais utilizadas
 
-<img src="./scripts/bibliotecas_python.jpg" width="40%" height="40%">
+<img src="./scripts/bibliotecas_python.jpg" width="60%" height="60%">
 
 Fonte: [stackoverflow](https://insights.stackoverflow.com/trends?tags=pandas%2Cnumpy%2Cmatplotlib)
 
