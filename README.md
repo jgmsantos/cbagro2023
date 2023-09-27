@@ -18,11 +18,11 @@
 
 ## Recomendação de leitura
 
-O livro **Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython** é uma excelente porta de entrada para quem deseja se tornar cientista de dados.
+O livro **Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy & Jupyter** é uma excelente porta de entrada para quem deseja se tornar cientista de dados.
 
-Link para comprar o livro: 
+Link para comprar o livro. **No dia 27/09/2023 o valor era de R$ 139,05**. 
 
-[Link para Amazon](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479/ref=sr_1_6?crid=3IQMCPU8VU8AG&keywords=python+para+analise+de+dados&qid=1693326265&sprefix=Python+para+Analise+de+Dados%2Caps%2C268&sr=8-6)
+[Link para Amazon](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575228412/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G73UGM7TMGFI&keywords=Python+Para+An%C3%A1lise+de+Dados%3A+Tratamento+de+Dados+com+Pandas%2C+NumPy+e+IPython&qid=1695821092&sprefix=python+para+an%C3%A1lise+de+dados+tratamento+de+dados+com+pandas+numpy+e+ipython%2Caps%2C241&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 
 <img src="figuras/capa_livro.jpg" width="25%" height="25%">
 
