@@ -10,7 +10,7 @@
   * Duração: 1h30m (17h30-19h00).
 * Dia 3: 05/10/2022.
   * Duração: 1h30m (17h30-19h00).
-* Carga horária: 4,5 horas.
+* Carga horária: 4h30min.
 
 ## Conteúdo programático
 
