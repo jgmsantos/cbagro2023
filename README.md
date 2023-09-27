@@ -14,15 +14,7 @@
 
 ## Conteúdo programático
 
-* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```)
-* Geração de figuras (nome do script: ```graficos.ipynb```)
-  * Gráfico de linha
-  * Gráfico de barra
-  * Gráfico espacial
-  * Uso do shapefile
-    * Adicionar shapefile ao mapa
-    * Uso do shapefile para mascarar o dado
-* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
+<img src="figuras/fluxo_trabalho.jpg" width="100%" height="100%">
 
 ## Recomendação de leitura
 
@@ -79,32 +71,6 @@ Fonte: [stackoverflow](https://insights.stackoverflow.com/trends?tags=pandas%2Cn
 
 ```pip install geopandas==0.10.2```
 
-```pip install seaborn``` --< ultima lib instalada 25/08/2023
-
-```pip install proplot==0.9.4```
-
-```conda install -c conda-forge cartopy```
-
-```pip install rasterio==1.2.10```
-
-```pip install salem==0.3.7```
-
-```pip install pygeos==0.12.0```
-
-```pip install rtree==1.0.0```
-
-```conda install -c conda-forge ncview```
-
 ## Frase motivacional
 
 * Sabemos muitos, mas não sabemos tudo.
-
-## Anotações
-
-- tabela 5.8, pag 211
-- cap. 11.7, pag 438
-- tabela 11.4, pag 406
-- pag 292, junções no dataframe
-- indices climaticos (NDCS, NDT>30°C)
-- merge de DF
-- processar NaN e preencher dados ausentes
