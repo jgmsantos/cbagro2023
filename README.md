@@ -5,11 +5,11 @@
 * Curso: Aplicação de Python na Agrometeorologia.
 * Ministrante: Dr. Guilherme Martins - jgmsantos@gmail.com.
 * Dia 1: 03/10/2022.
-  * Duração: 1h30m (17h30-19h00).
+  * Duração: 1h30min (17h30-19h00).
 * Dia 2: 04/10/2022.
-  * Duração: 1h30m (17h30-19h00).
+  * Duração: 1h30min (17h30-19h00).
 * Dia 3: 05/10/2022.
-  * Duração: 1h30m (17h30-19h00).
+  * Duração: 1h30min (17h30-19h00).
 * Carga horária: 4h30min.
 
 ## Conteúdo programático
